@@ -1,12 +1,10 @@
 body{
-  /*background-image: url(http://s01.tku.edu.tw/~401047013/timelesstreasure/img/bg.jpg);*/
-  background-image: url("http://tkuic.acsite.org/timelesstreasure/img//bg.png") ;
- /* background-size: cover;*/
   font-family: Georgia, Cambria, "Times New Roman", Times, "Hiragino Sans GB", "Heiti TC", "微軟正黑體", "Microsoft JhengHei", serif;
 }
 .main-container{
 	margin-top: 100px;
 }
+
 .kurztext-intro{
   background-color: rgba(255,255,255,0.4);
   padding: 20px;
