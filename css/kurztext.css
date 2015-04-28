@@ -27,6 +27,10 @@ body{
   margin-bottom: 50px;
 }
 
+.thumbnail > img{
+  height: 225px;
+}
+
 .img-resposive {
   display: block;
   max-width: 100%;
